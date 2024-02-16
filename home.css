@@ -1,0 +1,185 @@
+*{
+    margin: 2;
+    padding: 2;
+    box-sizing: border-box;
+}
+
+.icon{
+    display: flex;
+    justify-content: space-around;
+}
+.icon h1{
+    margin: 0;
+    font-size: 1.1rem;
+}
+.box{
+      border: 1px solid #80808080;
+        background-color: #8080801a;
+        border: none;
+        height: 48rem;
+
+}
+.box-1{
+    display: flex;
+    gap: 0.8rem;
+}
+.box-1 p{
+    margin-left: 0.6rem; 
+    border: 1.3px solid blue;
+    width: 1px;
+    height: 1.7rem;
+}
+.box-1 h2{
+    margin-top: 0.8rem;
+    font-size: 1.6rem;
+    font-family: sans-serif;
+    font-weight: lighter;
+    
+}
+.date{
+    margin-left: 10px;
+}
+.date h3{
+    font-family: sans-serif;
+    font-weight: lighter;
+}
+.date h1{
+    border: 1px solid blue;
+    width:29px;
+    text-align: center;
+    background-color: blue;
+    font-size: 1.6rem;
+    font-weight: lighter;
+    border-radius: 60rem;
+    color: white;
+}
+.meeting{
+    border: 1px solid white;
+    background-color: white;
+
+}
+.meeting h1{
+    font-size: 1.4rem;
+    font-weight: lighter;
+}
+
+.meeting h3{
+    font-weight: lighter;
+}
+/* second */
+
+*{
+    margin: 2;
+    padding: 2;
+    box-sizing: border-box;
+}
+
+.icon{
+    display: flex;
+    justify-content: space-around;
+}
+.icon h1{
+    margin: 0;
+    font-size: 1.4rem;
+    font-weight: lighter;
+    font-family: sans-serif;
+}
+.box{
+      border: 1px solid #80808080;
+        background-color: #8080801a;
+        border: none;
+        /* height: 36rem; */
+
+}
+.box-1{
+    display: flex;
+    gap: 0.8rem;
+}
+.box-1 p{
+    margin-left: 0.6rem; 
+    border: 1.3px solid blue;
+    width: 1px;
+    height: 1.7rem;
+}
+.box-1 h2{
+    margin-top: 0.8rem;
+    font-size: 1.6rem;
+    font-family: sans-serif;
+    font-weight: lighter;
+    
+}
+.date{
+    margin-left: 10px;
+}
+.date h3{
+    font-family: sans-serif;
+    font-weight: lighter;
+}
+.date h1{
+    border: 1px solid blue;
+    width:29px;
+    text-align: center;
+    background-color: blue;
+    font-size: 1.6rem;
+    font-weight: lighter;
+    border-radius: 60rem;
+    color: white;
+}
+.meeting{
+    border: 1px solid white;
+    background-color: white;
+width: 98%;
+    font-size: 2rem;
+    margin-left: 1rem;
+}
+.meeting h1{
+    font-size: 2rem;
+    /* font-size: 1.4rem; */
+    font-weight: lighter;
+}
+
+.meeting h3{
+    /* font-size: 2rem; */
+    font-weight: lighter;
+}
+.meeting i{
+    font-size: 1.46rem;
+}
+
+/*  */
+
+.date-1{
+    margin-left: 10px;
+}
+.date-1 h3{
+    font-family: sans-serif;
+    font-weight: lighter;
+}
+.date-1 h1{
+    width:29px;
+    text-align: center;
+    font-size: 1.6rem;
+    font-weight: lighter;
+    
+}
+.meeting-1{
+    border: 1px solid white;
+    background-color: white;
+width: 98%;
+    margin-left: 1rem;
+}
+.meeting-1 h1{
+    font-size: 1.4rem;
+    font-weight: lighter;
+    font-size: 2rem;
+    
+}
+
+.meeting-1 h3{
+    font-weight: lighter;
+    font-size: 2rem;
+}
+.meeting-1 i {
+    font-size: 1.45rem;
+    
+}
